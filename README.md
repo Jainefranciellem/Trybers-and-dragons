@@ -5,7 +5,7 @@
 
 <P>Em T&D, os jogadores são transportados para um mundo fictício onde assumem o papel de personagens pertencentes a diferentes raças, cada uma com suas características únicas, como pontos de vida e destreza. Além disso, os personagens possuem arquétipos específicos, representando suas vocações e habilidades individuais.</P>
 
-<p>O cerne do jogo reside nos combates emocionantes entre os personagens controlados pelos jogadores e uma variedade de monstros. Esses combates são baseados em atributos e habilidades específicas de cada personagem, adicionando um elemento estratégico às batalhas. Além dos combates, os jogadores também são desafiados a completar quests e explorar um vasto mundo repleto de masmorras e perigos.</p>
+<p>O cerne do jogo reside nos combates entre os personagens controlados pelos jogadores e monstros. Esses combates são baseados em atributos e habilidades específicas de cada personagem, adicionando um elemento estratégico às batalhas.</p>
 
 <p>Ao desenvolver este projeto, utilizei aplicação dos princípios da arquitetura SOLID e da POO. Isso resultou em um código bem estruturado, capaz de se adaptar facilmente a mudanças e, acima de tudo, de ser mantido com facilidade ao longo do tempo.</p>
     <h2>Como Instalar:</h2>
